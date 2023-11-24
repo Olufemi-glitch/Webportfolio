@@ -1,17 +1,5 @@
 # portfolio
-### Hi there 👋 I am Olufemi Olamoyegun
 
-<!--
-**Olufemi-glitch/Olufemi-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on Microsoft Power BI, SQL, and Tableau projects
-- 🌱 I’m currently learning ... SQL, R
-- 👯 I’m looking to collaborate on ... Data analysis using R, SQL, MYSQ 
-- 💬 Ask me about ... Data Analysis
-- 📫 How to reach me: ... olamoyegun07@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... Love to solve data-related challenges
 -->
 ### Hi, my name is Olufemi
 #### a Data Analyst Enthusiast from Lagos, Nigeria.
