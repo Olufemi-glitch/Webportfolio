@@ -2,7 +2,7 @@
 
 -->
 ### Hi, my name is Olufemi
-#### a Data Analyst Enthusiast from Lagos, Nigeria.
+#### a Microsoft Power BI Data Analyst Associate from Lagos, Nigeria.
 Skills: **POWER BI** || **TABLEAU** || **SQL** || **PYTHON** || **R** || **SPSS** || **QLIKSENSE** || **QLIK VIEW** ||
 -  I’m currently learning SQL, R 
 -  I’m looking to collaborate on Data Analysis projects 
